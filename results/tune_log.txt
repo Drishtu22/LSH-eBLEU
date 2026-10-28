@@ -1,0 +1,76 @@
+﻿Prepared 3920 dev segments in 17.3s
+delta=0.50  pearson=0.3703  kendall=0.2400
+delta=0.55  pearson=0.3699  kendall=0.2410
+delta=0.60  pearson=0.3713  kendall=0.2428
+delta=0.65  pearson=0.3697  kendall=0.2440
+delta=0.70  pearson=0.3641  kendall=0.2419
+delta=0.75  pearson=0.3599  kendall=0.2404
+delta=0.80  pearson=0.3505  kendall=0.2352
+delta=0.85  pearson=0.3363  kendall=0.2281
+delta=0.90  pearson=0.3243  kendall=0.2199
+delta=0.95  pearson=0.3074  kendall=0.2098
+delta=1.00  pearson=0.2966  kendall=0.2070
+
+Chosen delta = 0.6  (exact soft: pearson=0.3713, kendall=0.2428, sims=11590298)
+k= 4 L= 1  pearson=0.3415  kendall=0.2285  sims=0.159 of exact  (4.8s)
+k= 4 L= 2  pearson=0.3594  kendall=0.2376  sims=0.259 of exact  (7.0s)
+k= 4 L= 4  pearson=0.3666  kendall=0.2420  sims=0.415 of exact  (11.2s)
+k= 4 L= 8  pearson=0.3723  kendall=0.2443  sims=0.618 of exact  (17.0s)
+k= 4 L=16  pearson=0.3713  kendall=0.2428  sims=0.830 of exact  (26.6s)
+k= 4 L=32  pearson=0.3713  kendall=0.2428  sims=0.957 of exact  (38.3s)
+k= 6 L= 1  pearson=0.3334  kendall=0.2255  sims=0.069 of exact  (3.0s)
+k= 6 L= 2  pearson=0.3492  kendall=0.2317  sims=0.109 of exact  (4.4s)
+k= 6 L= 4  pearson=0.3600  kendall=0.2386  sims=0.181 of exact  (6.6s)
+k= 6 L= 8  pearson=0.3684  kendall=0.2421  sims=0.300 of exact  (10.9s)
+k= 6 L=16  pearson=0.3714  kendall=0.2431  sims=0.469 of exact  (18.2s)
+k= 6 L=32  pearson=0.3713  kendall=0.2426  sims=0.676 of exact  (29.9s)
+k= 8 L= 1  pearson=0.3270  kendall=0.2231  sims=0.041 of exact  (2.5s)
+k= 8 L= 2  pearson=0.3377  kendall=0.2263  sims=0.058 of exact  (1.8s)
+k= 8 L= 4  pearson=0.3514  kendall=0.2346  sims=0.092 of exact  (1.8s)
+k= 8 L= 8  pearson=0.3600  kendall=0.2379  sims=0.149 of exact  (4.4s)
+k= 8 L=16  pearson=0.3688  kendall=0.2411  sims=0.238 of exact  (6.6s)
+k= 8 L=32  pearson=0.3700  kendall=0.2422  sims=0.373 of exact  (11.1s)
+k=10 L= 1  pearson=0.3190  kendall=0.2178  sims=0.028 of exact  (1.0s)
+k=10 L= 2  pearson=0.3268  kendall=0.2199  sims=0.037 of exact  (1.3s)
+k=10 L= 4  pearson=0.3435  kendall=0.2311  sims=0.053 of exact  (1.8s)
+k=10 L= 8  pearson=0.3528  kendall=0.2355  sims=0.081 of exact  (2.9s)
+k=10 L=16  pearson=0.3638  kendall=0.2399  sims=0.125 of exact  (5.1s)
+k=10 L=32  pearson=0.3704  kendall=0.2429  sims=0.196 of exact  (9.2s)
+k=12 L= 1  pearson=0.3129  kendall=0.2151  sims=0.023 of exact  (0.9s)
+k=12 L= 2  pearson=0.3212  kendall=0.2172  sims=0.028 of exact  (1.1s)
+k=12 L= 4  pearson=0.3355  kendall=0.2265  sims=0.037 of exact  (1.7s)
+k=12 L= 8  pearson=0.3450  kendall=0.2312  sims=0.051 of exact  (2.6s)
+k=12 L=16  pearson=0.3578  kendall=0.2369  sims=0.075 of exact  (4.6s)
+k=12 L=32  pearson=0.3646  kendall=0.2397  sims=0.112 of exact  (8.7s)
+k=14 L= 1  pearson=0.3110  kendall=0.2147  sims=0.021 of exact  (0.9s)
+k=14 L= 2  pearson=0.3194  kendall=0.2174  sims=0.024 of exact  (1.1s)
+k=14 L= 4  pearson=0.3332  kendall=0.2271  sims=0.029 of exact  (1.7s)
+k=14 L= 8  pearson=0.3405  kendall=0.2295  sims=0.038 of exact  (2.7s)
+k=14 L=16  pearson=0.3492  kendall=0.2327  sims=0.051 of exact  (4.5s)
+k=14 L=32  pearson=0.3586  kendall=0.2374  sims=0.073 of exact  (8.9s)
+k=16 L= 1  pearson=0.3084  kendall=0.2135  sims=0.019 of exact  (1.0s)
+k=16 L= 2  pearson=0.3136  kendall=0.2141  sims=0.022 of exact  (1.4s)
+k=16 L= 4  pearson=0.3257  kendall=0.2226  sims=0.025 of exact  (1.7s)
+k=16 L= 8  pearson=0.3322  kendall=0.2262  sims=0.031 of exact  (2.8s)
+k=16 L=16  pearson=0.3410  kendall=0.2292  sims=0.039 of exact  (4.4s)
+k=16 L=32  pearson=0.3553  kendall=0.2378  sims=0.052 of exact  (8.0s)
+
+Selected: {
+  "delta": 0.6,
+  "k": 10,
+  "L": 32,
+  "seed": 42,
+  "tolerance": 0.005,
+  "dev_exact_soft": {
+    "pearson": 0.3713483474389812,
+    "kendall": 0.24283986665023155,
+    "similarity_computations": 11590298
+  },
+  "dev_lsh": {
+    "pearson": 0.37042864965129363,
+    "kendall": 0.24289211782920836,
+    "similarity_computations": 2273082,
+    "hash_projections": 232802560,
+    "sim_fraction": 0.19611937501520668
+  }
+}

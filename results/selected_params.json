@@ -1,0 +1,19 @@
+{
+  "delta": 0.6,
+  "k": 10,
+  "L": 32,
+  "seed": 42,
+  "tolerance": 0.005,
+  "dev_exact_soft": {
+    "pearson": 0.3713483474389812,
+    "kendall": 0.24283986665023155,
+    "similarity_computations": 11590298
+  },
+  "dev_lsh": {
+    "pearson": 0.37042864965129363,
+    "kendall": 0.24289211782920836,
+    "similarity_computations": 2273082,
+    "hash_projections": 232802560,
+    "sim_fraction": 0.19611937501520668
+  }
+}
